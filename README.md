@@ -10,8 +10,6 @@
 
 <img src="/app/src/main/res/gifs/record.gif" width="50%" height="50%">
 
-![](/app/src/main/res/gifs/record.gif)
-
 ### License
 ```
  HAVE A FUN :) 
