@@ -8,6 +8,8 @@
  3) Shake Effect
  4) Animate the shape on click
 
+<img src="/app/src/main/res/gifs/record.gif" width="50%" height="50%">
+
 ![](/app/src/main/res/gifs/record.gif)
 
 ### License
